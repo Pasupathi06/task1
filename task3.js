@@ -55,7 +55,7 @@ console.log(all);
 
 
 
-function sumAll(...nums) {
+function sumall(...nums) {
     let total = 0;
 
     for (let num of nums) {
@@ -63,7 +63,7 @@ function sumAll(...nums) {
     }
 return total;
 }
-console.log(sumAll(10, 20, 30, 40)); 
+console.log(sumall(10, 20, 30, 40)); 
 
 
 
